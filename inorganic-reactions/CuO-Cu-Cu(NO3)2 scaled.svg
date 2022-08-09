@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="292.54" height="28.997" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g font-family="Inter" font-size="16px" stroke="transparent" stroke-width=".08">
+  <text x="-0.95454544" y="27.231556" style="line-height:normal">CuO</text>
+  <text x="69.595825" y="11.636364" style="line-height:normal">X</text>
+  <text x="117.92381" y="27.231556" style="line-height:normal">Cu</text>
+ </g>
+ <path d="m96.113 23.454h-50.68v-0.96h50.68z" stroke="transparent" stroke-width=".08"/>
+ <path d="m104.43 22.974-9.6 2.48s1.2-1.3952 1.2-2.48c0-1.12-1.2-2.56-1.2-2.56l9.6 2.56" stroke="transparent" stroke-width=".08"/>
+ <path d="m104.43 22.974-9.6 2.48s1.2-1.3952 1.2-2.48c0-1.12-1.2-2.56-1.2-2.56l9.6 2.56" fill="transparent" stroke="#000" stroke-width=".05"/>
+ <path d="m202.54 23.454h-50.68v-0.96h50.68z" stroke="transparent" stroke-width=".08"/>
+ <path d="m210.86 22.974-9.6 2.48s1.2-1.3952 1.2-2.48c0-1.12-1.2-2.56-1.2-2.56l9.6 2.56" stroke="transparent" stroke-width=".08"/>
+ <path d="m210.86 22.974-9.6 2.48s1.2-1.3952 1.2-2.48c0-1.12-1.2-2.56-1.2-2.56l9.6 2.56" fill="transparent" stroke="#000" stroke-width=".05"/>
+ <g font-family="Inter">
+  <g stroke="transparent" stroke-width=".08">
+   <text x="224.35574" y="25.945158" font-size="16px" style="line-height:normal">Cu(NO</text>
+   <text x="274.1333" y="28.877954" font-size="12px" style="line-height:normal">3</text>
+   <text x="280.8053" y="25.945158" font-size="16px" style="line-height:normal">)</text>
+   <text x="286.13171" y="28.877954" font-size="12px" style="line-height:normal">2</text>
+   <text x="176.02776" y="11.636364" font-size="16px" style="line-height:normal">Y</text>
+  </g>
+  <text transform="translate(-2.9296 -3.3943)" font-size="24px" style="font-variant-ligatures:none;line-height:1.25;shape-inside:url(#rect421);white-space:pre" xml:space="preserve"/>
+ </g>
+</svg>
