@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="269.22714"
-   height="27.009604"
-   viewBox="0 0 269.22714 27.009604"
+   height="24.036776"
+   viewBox="0 0 269.22714 24.036776"
    version="1.1"
    id="svg26"
    sodipodi:docname="reaction16.svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="4.1242775"
-     inkscape:cx="131.17449"
-     inkscape:cy="23.761738"
+     inkscape:zoom="2.9163046"
+     inkscape:cx="83.66753"
+     inkscape:cy="9.9440917"
      inkscape:window-width="2560"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -34,49 +34,49 @@
      inkscape:current-layer="svg26" />
   <text
      x="-0.95452756"
-     y="23.956898"
+     y="17.543741"
      stroke="transparent"
      fill="#000000"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9997px;line-height:normal;font-family:Inter;stroke-width:0.0799986"
      id="text2">CH</text>
   <text
      x="22.156115"
-     y="26.890287"
+     y="20.477131"
      stroke="transparent"
      fill="#000000"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9998px;line-height:normal;font-family:Inter;stroke-width:0.0799986"
      id="text4">3</text>
   <text
      x="28.82832"
-     y="23.956898"
+     y="17.543741"
      stroke="transparent"
      fill="#000000"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9997px;line-height:normal;font-family:Inter;stroke-width:0.0799986"
      id="text6">CH</text>
   <text
      x="51.938965"
-     y="26.890287"
+     y="20.477131"
      stroke="transparent"
      fill="#000000"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9998px;line-height:normal;font-family:Inter;stroke-width:0.0799986"
      id="text8">2</text>
   <text
      x="58.611172"
-     y="23.956898"
+     y="17.543741"
      stroke="transparent"
      fill="#000000"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9997px;line-height:normal;font-family:Inter;stroke-width:0.0799986"
      id="text10">COONa</text>
   <text
      x="128.99956"
-     y="22.976913"
+     y="16.563757"
      stroke="transparent"
      fill="#000000"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9997px;line-height:normal;font-family:Inter;stroke-width:0.0799986"
      id="text12">+</text>
   <text
      x="151.83325"
-     y="25.056879"
+     y="18.643723"
      stroke="transparent"
      fill="#000000"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9997px;line-height:normal;font-family:Inter;stroke-width:0.0799986"
@@ -84,30 +84,30 @@
   <path
      stroke="transparent"
      fill="#000000"
-     d="M 260.89697,21.279023 H 209.77785 V 20.31904 h 51.11912 z"
+     d="m 260.89697,14.865867 h -51.11912 v -0.959983 h 51.11912 z"
      id="path16"
      style="stroke-width:0.0799986" />
   <path
      stroke="transparent"
      fill="#000000"
-     d="m 269.21683,20.799031 c 0,0 -9.59983,2.479958 -9.59983,2.479958 0,0 1.19997,-1.395176 1.19997,-2.479958 0,-1.11998 -1.19997,-2.559956 -1.19997,-2.559956 0,0 9.59983,2.559956 9.59983,2.559956 0,0 0,0 0,0"
+     d="m 269.21683,14.385875 c 0,0 -9.59983,2.479958 -9.59983,2.479958 0,0 1.19997,-1.395176 1.19997,-2.479958 0,-1.11998 -1.19997,-2.559956 -1.19997,-2.559956 0,0 9.59983,2.559956 9.59983,2.559956 0,0 0,0 0,0"
      id="path18"
      style="stroke-width:0.0799986" />
   <path
      stroke="#000000"
      stroke-width="0.0799986"
      fill="transparent"
-     d="m 269.21683,20.799031 c 0,0 -9.59983,2.479958 -9.59983,2.479958 0,0 1.19997,-1.395176 1.19997,-2.479958 0,-1.11998 -1.19997,-2.559956 -1.19997,-2.559956 0,0 9.59983,2.559956 9.59983,2.559956 0,0 0,0 0,0"
+     d="m 269.21683,14.385875 c 0,0 -9.59983,2.479958 -9.59983,2.479958 0,0 1.19997,-1.395176 1.19997,-2.479958 0,-1.11998 -1.19997,-2.559956 -1.19997,-2.559956 0,0 9.59983,2.559956 9.59983,2.559956 0,0 0,0 0,0"
      id="path20" />
   <text
-     x="233.93744"
-     y="12.408297"
+     x="233.80556"
+     y="12.408301"
      stroke="transparent"
      fill="#000000"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9997px;line-height:normal;font-family:Inter;stroke-width:0.0799986"
      id="text22">t</text>
   <text
-     x="238.38057"
+     x="238.24869"
      y="6.6305714"
      stroke="transparent"
      fill="#000000"
