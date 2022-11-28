@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="102px" height="36px" viewBox="0 0 102 36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 2.22222 32.9444)" style="font:normal normal normal 200px 'Arial'" >
+HO</text>
+<path stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 -712 -154)" d="M 14756.1,3515.74 L 14756.1,3529.59 L 14599.2,3620.17 L 14593.2,3609.77 L 14756.1,3515.74 Z " />
+<path stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 -712 -154)" d="M 15005.5,3659.74 L 15005.5,3673.59 L 14756.1,3529.59 L 14756.1,3515.74 L 15005.5,3659.74 Z " />
+<path stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 -712 -154)" d="M 15254.9,3515.74 L 15254.9,3529.59 L 15005.5,3673.59 L 15005.5,3659.74 L 15254.9,3515.74 Z " />
+<path stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 -712 -154)" d="M 15504.3,3659.74 L 15504.3,3673.59 L 15254.9,3529.59 L 15254.9,3515.74 L 15504.3,3659.74 Z " />
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 21.9152 11.3445)" style="font:normal normal normal 200px 'Arial'" >
+O</text>
+<path stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 -712 -154)" d="M 14724.2,3341.22 L 14736.2,3341.22 L 14736.2,3537.63 L 14724.2,3537.63 L 14724.2,3341.22 Z " />
+<path stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 -712 -154)" d="M 14776,3341.22 L 14788,3341.22 L 14788,3537.63 L 14776,3537.63 L 14776,3341.22 Z " />
+<path stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 -712 -154)" d="M 15753.7,3515.74 L 15753.7,3529.59 L 15504.3,3673.59 L 15504.3,3659.74 L 15753.7,3515.74 Z " />
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 84.269 32.9444)" style="font:normal normal normal 200px 'Arial'" >
+OH</text>
+<path stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 -712 -154)" d="M 15916.3,3609.59 L 15910.3,3619.98 L 15753.7,3529.59 L 15753.7,3515.74 L 15916.3,3609.59 Z " />
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 71.7982 11.3445)" style="font:normal normal normal 200px 'Arial'" >
+O</text>
+<path stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 -712 -154)" d="M 15721.8,3341.22 L 15733.8,3341.22 L 15733.8,3537.63 L 15721.8,3537.63 L 15721.8,3341.22 Z " />
+<path stroke="transparent" fill="#000000" transform="matrix(0.05 0 0 0.05 -712 -154)" d="M 15773.7,3341.22 L 15785.7,3341.22 L 15785.7,3537.63 L 15773.7,3537.63 L 15773.7,3341.22 Z " />
+</svg>
