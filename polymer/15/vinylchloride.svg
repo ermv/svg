@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="74.765999"
+   height="27.904852"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="vinylchloride.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="44.745763"
+     inkscape:cy="39.864407"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     stroke="transparent"
+     d="M 33.64935,5.4931755 V 6.532669 L 15.167965,17.202103 14.717968,16.422108 Z m -0.224999,4.6184715 0.449998,0.779995 -16.762396,9.67794 -0.449997,-0.779995 z"
+     stroke-width="0.0749995"
+     id="path2" />
+  <text
+     stroke="transparent"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.9999px;line-height:normal;font-family:Arial;stroke-width:0.0749995"
+     id="text4"
+     x="46.937767"
+     y="22.228571">Cl</text>
+  <path
+     stroke="transparent"
+     d="M 46.129272,12.699131 45.679275,13.477626 33.64935,6.532669 V 5.4931755 Z"
+     stroke-width="0.0749995"
+     id="path6" />
+</svg>
